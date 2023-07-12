@@ -22,7 +22,7 @@ LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_walls
 
 LOCAL_USE_AAPT2 := true
 
-LOCAL_PACKAGE_NAME := Backgrounds
+LOCAL_PACKAGE_NAME := BOSWallpapers
 
 LOCAL_PRODUCT_MODULE := true
 
