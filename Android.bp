@@ -1,0 +1,15 @@
+//
+// SPDX-FileCopyrightText: 2025 Blisslabs
+// SPDX-License-Identifier: Apache-2.0
+//
+
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+android_app {
+    name: "BOSWallpapers",
+
+    sdk_version: "current",
+    product_specific: true,
+}
